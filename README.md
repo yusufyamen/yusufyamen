@@ -29,19 +29,19 @@ One mUNiverse. Infinite Debates. A comprehensive Model United Nations conference
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yusufyamen&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=yusufyamen&show_icons=true&count_private=true&theme=null" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyamen&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyamen&layout=compact&theme=null"  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyamen&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyamen&theme=null" />
 
-<img src="https://profile-counter.glitch.me/yusufyamen/count.svg?" alt="visitors count" />
+<img src="https://profile-counter.glitch.me/yusufyamen/count.svg?"  />
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusufyamen" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=yusufyamen"  />
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufyamen&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufyamen&radius=16&theme=xcode&area=true&order=5" height="300"  />
 
